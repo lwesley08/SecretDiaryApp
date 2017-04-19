@@ -21,7 +21,7 @@
         
     } else{
         
-        header("Location: diary.php");
+        header("Location: index.php");
     }
 
 ?>
@@ -50,7 +50,7 @@
               
             </div>
               
-              <a  class="mr-2" href = 'diary.php?logout=1'><button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Log Out</button></a>
+              <a  class="mr-2" href = 'index.php?logout=1'><button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Log Out</button></a>
               
           
             
